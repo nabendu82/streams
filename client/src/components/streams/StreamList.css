@@ -1,0 +1,19 @@
+.list{
+    display: grid;
+    grid-gap: 1.2rem;
+}
+
+.content{
+    font-size:1.2rem;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.description{
+  font-size:1.1rem;
+}
+
+.header{
+    background: #E6F2F5;
+    padding: 10px;
+}

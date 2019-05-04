@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Coding",
+      "description": "Live coding channedl",
+      "id": 1
+    },
+    {
+      "title": "Latest youtube",
+      "description": "A great youtube video",
+      "id": 2
+    }
+  ]
+}
