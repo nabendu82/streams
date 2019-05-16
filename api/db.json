@@ -9,6 +9,24 @@
       "title": "Latest youtube",
       "description": "A great youtube video",
       "id": 2
+    },
+    {
+      "title": "The Future",
+      "description": "This is an stream about my future goals and ambitions.",
+      "userId": "106020900133971725356",
+      "id": 3
+    },
+    {
+      "title": "Programmatically Navigation",
+      "description": "This is a test of the history.push, which is very good",
+      "userId": "106020900133971725356",
+      "id": 4
+    },
+    {
+      "title": "Refactoring test",
+      "description": "Testing after the refactor of StreamCreate",
+      "userId": "106020900133971725356",
+      "id": 5
     }
   ]
 }

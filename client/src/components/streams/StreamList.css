@@ -17,3 +17,44 @@
     background: #E6F2F5;
     padding: 10px;
 }
+
+.editBtn,.deleteBtn {
+    box-sizing: border-box;
+    position: relative;
+    margin: 0.2em;
+    padding: 0 15px 0 15px;
+    border: none;
+    text-align: center;
+    line-height: 34px;
+    white-space: nowrap;
+    border-radius: 0.2em;
+    font-size: 16px;
+    color: black;
+    background: burlywood;
+}
+
+.deleteBtn {
+    background: #DD4B39;
+    color:white;
+}
+
+  .editBtn:hover,
+  .deleteBtn:hover {
+    background: #E74B37;
+    cursor: pointer;
+  }
+
+  .createBtn{
+      width:20%;
+  }
+
+  .createBtn>a{
+    color: black;
+    text-decoration: none;
+ }
+
+ .linkBtn{
+    color: black;
+    text-decoration: none;
+    padding: 0.6rem;
+ }
