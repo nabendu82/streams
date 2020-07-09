@@ -1,6 +1,6 @@
 # Twitch Clone
 
-Interested in creating Twitch Clone in [React](https://medium.com/@nabendu82/create-a-twitch-clone-using-react-1-25448cd92c0a)?
+Interested in creating Twitch Clone in [React](https://thewebdev.tech/series/Twitch-react)?
 
 ### Getting Started
 
